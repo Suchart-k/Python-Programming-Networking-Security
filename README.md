@@ -9,5 +9,7 @@ Python Programmming for Networking and Security
 
 สามารถคลิกเพื่อดาวน์โหลด e-Book และ Soure code ทั้งหมดได้ที่นี่ [>> ดาวน์โหลด <<](https://github.com/bombomstory/Python-Programming-Networking-Security/archive/refs/heads/main.zip)   
 
+---
+
 ![Copyright](images/Copyright.png "ลิขสิทธิ์ (Copyright)")
 
